@@ -16,5 +16,13 @@ int main()
         cout<<"mensagem=> "<<i<<endl;
     }
     cout<<"teste"<<endl;
+    std::cout <<"gggggggggggg" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
+    for(int i=0;i<11;i++){
+        cout<<"mensagem=> "<<i<<endl;
+    }
+    cout<<"teste"<<endl;
     return 0;
 }
