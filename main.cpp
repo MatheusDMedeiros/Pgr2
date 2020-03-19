@@ -4,7 +4,10 @@ int main()
 {
     std::cout<<"Hello, World!"<<std::endl;
     for(int i=0;i<11;i++){
-        cout<<"mensagem=> "<<i<<endl;
+        cout<<"fgggggggg=> "<<i<<endl;
+        std::cout << "Hello, World!" << std::endl;
+        std::cout << "Hello, World!" << std::endl;
+        std::cout << "Hello, World!" << std::endl;
     }
     std::cout << "eeeeeeeeeeeee!" << std::endl;
     std::cout << "fffffffffff" << std::endl;
@@ -21,7 +24,10 @@ int main()
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Hello, World!" << std::endl;
     for(int i=0;i<11;i++){
-        cout<<"mensagem=> "<<i<<endl;
+        std::cout << "Hello, World!" << std::endl;
+        std::cout << "Hello, World!" << std::endl;
+        std::cout << "Hello, World!" << std::endl;
+        cout<<"fhhhhhhhh=> "<<i<<endl;
     }
     cout<<"teste"<<endl;
     return 0;
